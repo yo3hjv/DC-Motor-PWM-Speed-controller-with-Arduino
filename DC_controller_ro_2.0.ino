@@ -8,6 +8,7 @@ cu afisarea valorilor pe LCD.
 		Autor: Adrian YO3HJV
 		februarie 2023
 		Versiunea 2.0
+Libraria pentru bargraf: https://github.com/prampec/LcdBarGraph
 */
 
 
